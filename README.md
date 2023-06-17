@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Downloads](https://static.pepy.tech/badge/basana/month)](https://pepy.tech/project/basana)
 
-# Basana
+# Basana Test
 
 **Basana** is a Python **async and event driven** framework for **algorithmic trading**, with a focus on **crypto currencies**.
 
